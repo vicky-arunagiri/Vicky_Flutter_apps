@@ -17,6 +17,6 @@ class FlutteriTunesApp extends StatelessWidget {
             title: 'Flutter iTunes Search',
             theme:
                 ThemeData(primaryColor: Colors.white, buttonColor: Colors.grey),
-            home: SearchResultList(title: 'iTunes Search')));
+            home: SearchResultList(title: 'iTunes Music Player')));
   }
 }
